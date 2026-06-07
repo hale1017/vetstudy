@@ -1,0 +1,152 @@
+{
+  "lectures": {
+    "LN-0001": {
+      "title": "Radiology - Introduction",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\期中\\Radiology - introduction 2025.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0001_radiology-introduction.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0002": {
+      "title": "CT and MRI - Principles",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\期中\\CT and MRI - principles 2025.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0002_CT-MRI-principles.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0003": {
+      "title": "Introduction to Medical Images - Ultrasonography",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\期中\\Introduction to medical images  ultrasound.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0003_ultrasound-introduction.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0004": {
+      "title": "Physical Examinations",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\期中\\Physical examination 2025.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0004_physical-examination.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0005": {
+      "title": "Physical Examination of Dogs and Cats - Clinical Guide",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\期中\\Physical_Examination PDF_to student.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0005_physical-examination-clinical-guide.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0006": {
+      "title": "Diagnostic Imaging in Small Animal Neurology - Spinal Cord Diseases",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\期中\\Radiology - neuro - spine - 2025.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0006_radiology-neuro-spine.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0007": {
+      "title": "Digestive System - Clinical Examination and Imaging",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\期中\\臨床影像診斷-消化道2025.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0007_GI-digestive-imaging.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0008": {
+      "title": "Material Collection for Laboratory Examination",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\期中\\Material collection for laboratory examination 2025.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0008_lab-material-collection.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    }
+  },
+  "papers": {},
+  "textbooks": {},
+  "sources": {
+    "SMALLANIM-IM": {
+      "title": "小動物內科學",
+      "path": "D:\\書\\小內\\",
+      "type": "textbook",
+      "priority": 1
+    },
+    "SMALLANIM-SX": {
+      "title": "小動物外科學",
+      "path": "D:\\書\\小外\\",
+      "type": "textbook",
+      "priority": 2
+    },
+    "CLIN-DX": {
+      "title": "臨床及影像診斷學",
+      "path": "D:\\書\\臨床及影像診斷學\\",
+      "type": "textbook",
+      "priority": 3
+    },
+    "EXOTIC": {
+      "title": "特寵醫學",
+      "path": "D:\\書\\特寵\\",
+      "type": "textbook",
+      "priority": 4
+    },
+    "AVIAN": {
+      "title": "禽病學",
+      "path": "D:\\書\\禽病\\",
+      "type": "textbook",
+      "priority": 4
+    },
+    "PORCINE": {
+      "title": "豬病學",
+      "path": "D:\\書\\豬病\\",
+      "type": "textbook",
+      "priority": 4
+    },
+    "AQUATIC": {
+      "title": "魚病學",
+      "path": "D:\\書\\魚病\\",
+      "type": "textbook",
+      "priority": 4
+    },
+    "VIROLOGY": {
+      "title": "病毒學",
+      "path": "D:\\書\\Virology\\",
+      "type": "textbook",
+      "priority": 5
+    },
+    "BACTERIOLOGY": {
+      "title": "細菌學",
+      "path": "D:\\書\\Bacteriology\\",
+      "type": "textbook",
+      "priority": 6
+    },
+    "KNOWLEDGE-RAW": {
+      "title": "知識文庫論文",
+      "path": "C:\\Users\\ASUS\\OneDrive\\桌面\\知識\\",
+      "type": "papers"
+    },
+    "NTU-LEC": {
+      "title": "台灣大學獸醫系課程講義",
+      "path": "D:\\台灣大學\\學期課程\\",
+      "type": "lectures"
+    }
+  }
+}
