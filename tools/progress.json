@@ -79,6 +79,546 @@
       "processing_level": "L2",
       "status": "done",
       "created": "2026-06-07"
+    },
+    "LN-0009": {
+      "title": "Lab Animal Imaging and Imaging Center Design",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\期中\\實驗動物Imaging及imaging Center design.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0009_lab-animal-imaging.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0010": {
+      "title": "Spinal Radiology - Student Co-notes (Supplementary to LN-0006)",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\期中\\影診 張老師x ray.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0010_radiology-spine-student-notes.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0011": {
+      "title": "Locomotor System - Orthopedic Examination and Imaging",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\W9-10 Locomotor system-20251030-all.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0011_locomotor-system.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0012": {
+      "title": "Basic Ophthalmic Diagnosis - Clinical Examination and Diagnostics",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\W11 Basic Ophthalmic Diagnosis for Diagnostics 2025 Prof CT Lin.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0012_ophthalmic-diagnosis.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0013": {
+      "title": "Thoracic Radiology - Cardiovascular and Respiratory Imaging",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\W12 1-X ray of Thoracic Cavity   2025.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0013_thoracic-radiology.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0014": {
+      "title": "Urinary Tract Imaging - Radiography and Ultrasonography",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\W13 urinary tract 2025.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0014_urinary-tract-imaging.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0015": {
+      "title": "Diagnostic Imaging of Exotic Animals - Rabbits, Avian, and Reptiles",
+      "course": "臨床及影像診斷學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\影像診斷\\W14-15 diagnostic image of exotic animals 2022.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0015_exotic-animal-imaging.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0016": {
+      "title": "Poultry Overview & Anatomy",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期中\\Overview&Anatomy-handout.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0016_poultry-overview-anatomy.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0017": {
+      "title": "AI & ND - Avian Influenza and Newcastle Disease",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期末\\W9 1. AI.pdf; W9 2. ND.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0017_AI-ND-avian-influenza-newcastle.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0018": {
+      "title": "IB & ILT - Infectious Bronchitis and Laryngotracheitis",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期末\\W10 3. IB.pdf; W10 4. ILT.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0018_IB-ILT-respiratory-viral.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0019": {
+      "title": "MD, IBD, CIA - Immunosuppressive Diseases",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期中考\\MD-hand out.pdf; IBD-handout.pdf; CIA-handout.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0019_MD-IBD-CIA-immunosuppressive.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0020": {
+      "title": "Avian Bacterial Diseases I - Salmonella, Fowl Cholera, Colibacillosis, Riemerella",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期末\\W11 salmonellosis-handout.pdf; W12 Fowl Cholera.pdf; W13 Colibacillosis-handout.pdf; W12 RA-handout.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0020_avian-bacterial-diseases-I.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0021": {
+      "title": "Avian Bacterial Diseases II - IC, Mycoplasma, Chlamydia, Staph, TB, Clostridial",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期末\\W13 IC-handout.pdf; Mycoplasmosis-handout.pdf; Avian Chlamydiosis-handout.pdf; W8 Staphylococcosis-handout.pdf; W13 AVIAN TUBERCULOSIS.pdf; W13 Clostridial Diseases-handout.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0021_avian-bacterial-diseases-II.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0022": {
+      "title": "Avian Parasitic, Fungal & Non-Infectious Diseases - Coccidiosis, Blackhead, Aspergillosis, Nutritional",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期末\\protozoal.pdf; fungal.pdf; noninfectious.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0022_parasitic-fungal-noninfectious.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0023": {
+      "title": "Avian Metapneumovirus & Adenovirus - AMPV, IBH, EDS, SHS",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期末\\AMPV.pdf; Adeno.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0023_AMPV-adenovirus.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0024": {
+      "title": "Avian Reovirus & Fowlpox - Viral Arthritis, Tenosynovitis, Dry/Wet Pox",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期末\\REO.pdf; Fowlpox.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0024_REO-fowlpox.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0025": {
+      "title": "Waterfowl Diseases - DVH, DVE, Parvovirus, HNEG, Tembusu Virus",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期末\\waterfowl1.pdf; waterfowl2.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0025_waterfowl-diseases.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0026": {
+      "title": "Pet Bird Viral Diseases - PDD/Bornavirus, Polyomavirus, PBFD/Circovirus",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期末\\petbird.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0026_petbird-viral-diseases.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0027": {
+      "title": "AE, Avian Leukosis & Reticuloendotheliosis - Neoplastic Diseases",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期中考\\AE-handout.pdf; AL RE-handout.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0027_AE-ALV-REV-neoplastic.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0028": {
+      "title": "Avian Immune System & Vaccination Strategies",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期中考\\10-2 Avian immunology.pdf; 10-7 Vaccines and Vaccination.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0028_avian-immunology-vaccines.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0029": {
+      "title": "Breeder Farm Production Medicine - Production Cycle, Biosecurity",
+      "course": "禽病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\禽病\\期中考\\種禽生產醫學-handout.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0029_breeder-farm-production-medicine.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0030": {
+      "title": "Swine Herpesvirus Diseases - Pseudorabies (PRV) & PCMV",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期中考\\1140925_2025 Swine Herpesvirus disease.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0030_swine-herpesvirus-PRV-PCMV.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0031": {
+      "title": "Swine Picornaviral Diseases - FMD, SVD, SVV",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期中考\\1140925_2025 Swine Picornaviral Diseases.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0031_swine-picornaviral-FMD-SVD-SVV.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0032": {
+      "title": "Swine Coronaviral Diseases - TGE/PRCV, PED, HEV, PDCoV",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期中考\\1141001_2025 Swine coronaviral diseases.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0032_swine-coronaviral-TGE-PEDV-HEV.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0033": {
+      "title": "Swinepox & Swine Influenza Virus",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期中考\\1141001_2025 Swinepox.pdf; 1141002_2025 Swine influenza virus.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0033_swinepox-swine-influenza.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0034": {
+      "title": "Swine Bacterial Diseases I - APP, Atrophic Rhinitis, Glässer's, E.coli",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期中考\\細菌性疾病 I (2025-10-9).pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0034_swine-bact-I-APP-AR-HPS-Ecoli.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0035": {
+      "title": "Swine Bact II - Erysipelas Salmonella Exudative Epidermitis Brucellosis",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期中考\\細菌性疾病 II (2025-10-16).pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0035_swine-bact-II-erysipelas-salmonella-epidermitis-brucella.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0036": {
+      "title": "Swine Bact III - Mycoplasma Clostridia Leptospirosis Swine Dysentery",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期中考\\細菌性疾病 III (2025-10-16).pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0036_swine-bact-III-mycoplasma-clostridia-lepto-dysentery.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0037": {
+      "title": "Swine Bact IV - Proliferative Enteropathy Streptococcus suis Miscellaneous",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期中考\\細菌性疾病 IV (2025-10-16).pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0037_swine-bact-IV-PE-Lawsonia-Streptococcus-misc.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0038": {
+      "title": "Swine Production Medicine - Nursery Growing-Finishing Biosecurity Environment",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期末考\\豬隻生產醫學 (2025-11-06).pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0038_swine-production-medicine.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0039": {
+      "title": "Swine Nutrition Behavioral Problems Gastric Ulcer Nutrient Deficiencies",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期末考\\營養與其他原因疾病 (2025-11-06).pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0039_swine-nutrition-behavior-gastric-ulcer.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0040": {
+      "title": "Swine Parasitic Diseases Fungal Diseases Mycotoxins",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\期末考\\寄生蟲性疾病與黴菌性疾病及黴菌毒素中毒 (2025-11-06).pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0040_swine-parasites-fungi-mycotoxins.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0041": {
+      "title": "Ruminant Metabolic Neonatal Fluid Therapy",
+      "course": "反芻動物醫學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\反芻動物醫學\\W9_metabolic_neonatal.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0041_ruminant-metabolic-neonatal-fluid.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0042": {
+      "title": "Dairy Cattle Diseases Metabolic Big Four",
+      "course": "反芻動物醫學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\反芻動物醫學\\W10_dairy_cattle_diseases.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0042_dairy-cattle-diseases-metabolic.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0043": {
+      "title": "Bovine GI Diseases Locomotor Disorders",
+      "course": "反芻動物醫學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\反芻動物醫學\\W12_NonInfectious_GI.pdf; W13_Locomotor.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0043_bovine-GI-locomotor-disorders.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0044": {
+      "title": "Bovine Reproductive Diseases",
+      "course": "反芻動物醫學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\反芻動物醫學\\W11_Reproductive_Diseases.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0044_bovine-reproductive-diseases.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0045": {
+      "title": "Bovine Infectious Diseases",
+      "course": "反芻動物醫學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\反芻動物醫學\\bovine_infectious_disease.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0045_bovine-infectious-diseases.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0046": {
+      "title": "Ovine Caprine Infectious Diseases Small Ruminant Respiratory",
+      "course": "反芻動物醫學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\反芻動物醫學\\ovine_caprine_infectious.pdf; W15_SmallRuminant_Respiratory.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0046_ovine-caprine-infectious-respiratory.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-07"
+    },
+    "LN-0047": {
+      "title": "African Swine Fever & Classical Swine Fever",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\上課講義\\Swine Viral diseases-I_114_NTU COOL.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0047_swine-ASF-CSF.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-08"
+    },
+    "LN-0048": {
+      "title": "Swine JE, HEV, Porcine Parvovirus, Porcine Rotavirus",
+      "course": "豬病學",
+      "semester": "大四上",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四上\\豬病\\上課講義\\Swine Viral diseases-I_114_NTU COOL.pdf; Swine Viral diseases-II_114_NTU COOL.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四上\\LN-0048_swine-JE-HEV-PPV-rotavirus.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-08"
+    },
+    "LN-0049": {
+      "title": "Hematologic and Immunologic Diseases",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W2 2026 Hema_and_Immune_diseases ＋Case (影片).pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0049_hematologic-immunologic-diseases.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0050": {
+      "title": "Oncology I — Cancer Biology & Chemotherapy Principles",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W3 2026 General Introduction of Cancer Biology.pdf; W3 2026 SAIM 常見腫瘤治療.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0050_oncology-I-cancer-biology-chemotherapy.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0051": {
+      "title": "Oncology II — Paraneoplastic Syndrome",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W3 2026 Paraneoplastic syndrome.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0051_oncology-II-paraneoplastic-syndrome.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0052": {
+      "title": "Oncology III — Chemotherapy Complications & Client Communication",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W4 2026 SAIM Complications of Chemotherapy-Prevention - Management.pdf; W4 2026 SAIM cancer patient communication final TC.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0052_oncology-III-chemo-complications-communication.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0053": {
+      "title": "Respiratory System — Small Animal Internal Medicine",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W5 彈性教學講義_Resp system_(111-02版_8小時縮時為4小時).pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0053_respiratory-system.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0054": {
+      "title": "Cardiovascular I — Foundations, Heart Failure, Arrhythmia & Congenital Disease",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W5-7 CVS講義_114-02_1 (20260327).pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0054_cardiovascular-I-foundations-HF-arrhythmia-congenital.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0055": {
+      "title": "Cardiovascular II — Myocardial, Pericardial, PH, Heartworm, Hypertension & Thromboembolism",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W7 CVS講義_114-02_2 (20260410).pdf; W7 HARD中文補充資料_2022.pdf（掃描圖檔，已 OCR 整合）",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0055_cardiovascular-II-myocardial-pericardial-PH-heartworm-hypertension.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0056": {
+      "title": "Gastroenterology I — Clinical Signs, Diagnostic Approach & Therapeutic Principles",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W9 gastroenterology 1 2026.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0056_gastroenterology-I-clinical-signs-diagnostics.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0057": {
+      "title": "Gastroenterology II — Disorders of Oral Cavity, Esophagus, Stomach & Intestine",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W9 gastroenterology 2 2025.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0057_gastroenterology-II-diseases.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0058": {
+      "title": "Small Animal Dermatology — Diagnostic Approach & Infectious/Parasitic Skin Disease",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W11 小內皮膚病2026.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0058_dermatology.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0059": {
+      "title": "Small Animal Endocrinology — Diabetes Mellitus, Thyroid & Adrenal Disorders",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W12 endocrinology 2026 plain.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0059_endocrinology.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0060": {
+      "title": "Infectious Diseases & Vaccination — Canine/Feline Pathogens, Diagnostics & Vaccine Protocols",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W13 Infectious diseases and vaccination2026.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0060_infectious-diseases-vaccination.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0061": {
+      "title": "Diseases of the Urinary System — AKI, CKD, Urolithiasis, FLUTD & Micturition Disorders",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W14 urinary tract disease 2026 students.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0061_urinary-tract-disease.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
+    },
+    "LN-0062": {
+      "title": "Fluid Therapy, Acid-Base & Electrolyte Disorders — Crystalloids/Colloids, Dyselectrolytemias & Shock",
+      "course": "小動物內科學",
+      "semester": "大四下",
+      "source_pdf": "D:\\台灣大學\\學期課程\\大四下\\小內\\講義\\W15 fluid therapy 2026 students.pdf",
+      "obsidian_note": "20_VetSchool\\_intake\\大四下\\LN-0062_fluid-therapy-acid-base-electrolytes.md",
+      "processing_level": "L2",
+      "status": "done",
+      "created": "2026-06-27"
     }
   },
   "papers": {},
